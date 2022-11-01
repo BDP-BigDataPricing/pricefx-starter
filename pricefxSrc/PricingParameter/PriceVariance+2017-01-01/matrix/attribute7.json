@@ -1,0 +1,11 @@
+{
+  "fieldName" : "attribute7",
+  "fieldType" : 2,
+  "fieldValueOptions" : "[\"Yes\",\"No\",\"N/A\"]",
+  "label" : "Multiselect",
+  "labelTranslations" : {
+    "" : "Multiselect"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

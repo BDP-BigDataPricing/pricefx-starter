@@ -1,0 +1,12 @@
+{
+  "fieldName" : "attribute8",
+  "fieldType" : 2,
+  "fieldValueOptions" : "[\"greaterThan\",\"isNotNull\",\"equal\",\"*\",\"/\"]",
+  "formatType" : "TEXT",
+  "label" : "Rule",
+  "labelTranslations" : {
+    "" : "Rule"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

@@ -1,0 +1,11 @@
+{
+  "cssProperties" : "background-color:#00FF00;Filter",
+  "fieldName" : "attribute2",
+  "fieldType" : 2,
+  "label" : "Type",
+  "labelTranslations" : {
+    "" : "Type"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

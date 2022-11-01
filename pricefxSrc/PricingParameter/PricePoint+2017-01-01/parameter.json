@@ -1,0 +1,10 @@
+{
+  "hideWarnings" : false,
+  "isPlasma" : false,
+  "label" : "Price Variance Price Point",
+  "status" : "ACTIVE",
+  "type" : "MATRIX",
+  "uniqueName" : "PricePoint",
+  "validAfter" : "2017-01-01",
+  "valueType" : "MATRIX"
+}

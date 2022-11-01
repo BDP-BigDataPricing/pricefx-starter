@@ -1,0 +1,11 @@
+{
+  "fieldName" : "attribute2",
+  "fieldType" : 2,
+  "fieldValueOptions" : "[\"Yes\"]",
+  "label" : "Default",
+  "labelTranslations" : {
+    "" : "Default"
+  },
+  "readOnly" : false,
+  "requiredField" : false
+}

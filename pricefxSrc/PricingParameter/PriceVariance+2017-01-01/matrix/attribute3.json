@@ -1,0 +1,12 @@
+{
+  "cssProperties" : "background-color:#FFFF00",
+  "fieldName" : "attribute3",
+  "fieldType" : 2,
+  "fieldValueOptions" : "[\"Yes\",\"No\",\"N/A\"]",
+  "label" : "Hide",
+  "labelTranslations" : {
+    "" : "Hide ?"
+  },
+  "readOnly" : false,
+  "requiredField" : true
+}
