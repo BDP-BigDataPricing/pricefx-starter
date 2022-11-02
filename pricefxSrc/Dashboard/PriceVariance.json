@@ -1,0 +1,103 @@
+{
+  "configuration" : {
+    "formulaName" : "PriceVarianceDashboardSummary",
+    "inputs" : [ {
+      "addUnknownValues" : null,
+      "alwaysEditable" : null,
+      "filter" : null,
+      "formattingOptions" : { },
+      "inputs" : [ ],
+      "label" : "Year",
+      "labelTranslations" : null,
+      "lookupTableId" : null,
+      "name" : "Year",
+      "parameterConfig" : {
+        "labels" : {
+          "2022" : "2022"
+        }
+      },
+      "parameterGroup" : null,
+      "readOnly" : null,
+      "required" : null,
+      "type" : "OPTIONS",
+      "url" : null,
+      "value" : [ 2022 ],
+      "valueHint" : null,
+      "valueOptions" : [ "2022" ]
+    }, {
+      "addUnknownValues" : null,
+      "alwaysEditable" : null,
+      "filter" : null,
+      "formattingOptions" : { },
+      "inputs" : [ ],
+      "label" : "Period",
+      "labelTranslations" : null,
+      "lookupTableId" : null,
+      "name" : "Period",
+      "parameterConfig" : { },
+      "parameterGroup" : null,
+      "readOnly" : null,
+      "required" : null,
+      "type" : "OPTIONS",
+      "url" : null,
+      "value" : [ "Q1" ],
+      "valueHint" : null,
+      "valueOptions" : [ "M01", "M02", "M03", "M04", "M05", "M06", "M07", "M08", "M09", "M10", "M11", "M12", "Q1", "Q2", "Q3", "Q4" ]
+    }, {
+      "addUnknownValues" : null,
+      "alwaysEditable" : null,
+      "filter" : null,
+      "formattingOptions" : { },
+      "inputs" : [ ],
+      "label" : "Opportunity Basis",
+      "labelTranslations" : null,
+      "lookupTableId" : null,
+      "name" : "Opportunity Basis",
+      "parameterConfig" : {
+        "labels" : {
+          "10th" : "10th",
+          "25th" : "25th",
+          "50th" : "50th",
+          "75th" : "75th",
+          "90th" : "90th"
+        }
+      },
+      "parameterGroup" : null,
+      "readOnly" : null,
+      "required" : null,
+      "type" : "OPTION",
+      "url" : null,
+      "value" : "25th",
+      "valueHint" : null,
+      "valueOptions" : [ "10th", "25th", "50th", "75th", "90th" ]
+    }, {
+      "addUnknownValues" : null,
+      "alwaysEditable" : null,
+      "filter" : null,
+      "formattingOptions" : { },
+      "inputs" : [ ],
+      "label" : "Price Point",
+      "labelTranslations" : null,
+      "lookupTableId" : null,
+      "name" : "Price Point",
+      "parameterConfig" : {
+        "labels" : {
+          "LC_Selling_Price" : "Invoiced Price"
+        }
+      },
+      "parameterGroup" : null,
+      "readOnly" : null,
+      "required" : null,
+      "type" : "OPTION",
+      "url" : null,
+      "value" : "LC_Selling_Price",
+      "valueHint" : null,
+      "valueOptions" : [ "LC_Selling_Price" ]
+    } ]
+  },
+  "dynamicInputs" : true,
+  "hide" : false,
+  "label" : "Price Variance",
+  "labelTranslations" : { },
+  "uniqueName" : "PriceVariance"
+}

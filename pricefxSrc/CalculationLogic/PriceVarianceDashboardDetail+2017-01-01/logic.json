@@ -1,0 +1,56 @@
+{
+  "elements" : [ {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 0,
+    "elementGroups" : [ ],
+    "elementLabel" : "Acelerator",
+    "elementName" : "Acelerator",
+    "elementTimeout" : 900,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  }, {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "Details",
+    "elementName" : "DetailQuery",
+    "elementTimeout" : 900,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  }, {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "Scatter",
+    "elementName" : "Scatter",
+    "elementTimeout" : 900,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  }, {
+    "allowOverride" : false,
+    "combinationType" : "FUNCTION",
+    "displayOptions" : 16,
+    "elementGroups" : [ ],
+    "elementLabel" : "Histogram",
+    "elementName" : "Histogram",
+    "elementTimeout" : 900,
+    "hideOnNull" : false,
+    "hideWarnings" : false,
+    "protectedExpression" : false,
+    "summarize" : false
+  } ],
+  "inputDescriptors" : [ ],
+  "label" : "PriceVarianceDashboardDetail",
+  "status" : "ACTIVE",
+  "uniqueName" : "PriceVarianceDashboardDetail",
+  "validAfter" : "2017-01-01"
+}
