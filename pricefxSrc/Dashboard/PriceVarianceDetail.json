@@ -1,0 +1,11 @@
+{
+  "configuration" : {
+    "formulaName" : "PriceVarianceDashboardDetail",
+    "inputs" : [ ]
+  },
+  "dynamicInputs" : false,
+  "hide" : true,
+  "label" : "Price Variance Detail",
+  "labelTranslations" : { },
+  "uniqueName" : "PriceVarianceDetail"
+}
